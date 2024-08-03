@@ -5,9 +5,13 @@ Para o TCC I
 Fazer uma pesquisa e seleção de 10 artigos nas bases abaixo usando as palavras chave do seu tema, com no máximo 5 anos do ano em vigência.
 
 https://scholar.google.com.br/?hl=pt
+
 https://ieeexplore.ieee.org/Xplore/home.jsp
+
 https://www.sciencedirect.com/
+
 https://sol.sbc.org.br/index.php/indice
+
 https://ojs.brazilianjournals.com.br/
 
 Respondendo as seguintes perguntas:
